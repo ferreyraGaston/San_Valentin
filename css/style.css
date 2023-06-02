@@ -6,8 +6,7 @@ body{
     align-items: center;
     justify-content: center;
     background:#0b1522;
-    background-image: url("../img/imagen.jpeg");
-    background-repeat: repeat;
+    
 }
 .heart{
     height: 150px;
